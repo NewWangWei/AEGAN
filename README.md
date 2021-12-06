@@ -2,7 +2,7 @@
 
 ## Models
 
-The attribute extractor is implemented in <a href="https://github.com/ababababababababababab/attribute_extractor" target="_blank">attribute_extractor</a>. The trained Captioner Model can be found in <a href="https://drive.google.com/drive/folders/11q-XixaukQzjJ87kbhUQQxzkSRrigld7?usp=sharing" target="_blank">google drive</a>.
+The trained Captioner Model and data can be found in <a href="https://drive.google.com/drive/folders/11q-XixaukQzjJ87kbhUQQxzkSRrigld7?usp=sharing" target="_blank">google drive</a>.
 
 ## Scripts
 
