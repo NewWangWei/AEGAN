@@ -1,4 +1,4 @@
-# AGAN
+# AEGAN
 
 ## Models
 
