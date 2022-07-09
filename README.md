@@ -22,7 +22,8 @@ or
 
 ```python eval.py --gpus 0 --resume_from experiment-rl-newattr --resume_from_best True --sg_data_dir data/sg_data_final_4 --is_limited False --batch_size 100 --beam_size 2```
 
-## Experiments Results
+## Experiment Result
+![avatar](/result.png)
 
 
 
